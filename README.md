@@ -17,7 +17,7 @@ I have some background in software development using JavaScript and Python. 2 ye
 
 # Technical skill
 
-|                                                                        skill                                                                        | score |                                                         skill                                                         | score |
+|                                                                        Skill                                                                        | Score |                                                         Skill                                                         | Score |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :-------------------------------------------------------------------------------------------------------------------: | :---: |
 |     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>     | ★★★★☆ |           <img src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" alt="NuxtJS" width="40" height="40"/>           | ★★★★☆ |
 |      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavsScript" width="40" height="40"/>      | ★★★★☆ |        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/>         | ★★★★☆ |
@@ -31,6 +31,15 @@ I have some background in software development using JavaScript and Python. 2 ye
 <!-- - 💬 Ask me about **VueJS NuxtJS ReactJS ReactNative NextJS** -->
 
 <!-- - 📫 How to reach me **TitorPs360Gamer@gmail.com** -->
+
+# Design skill
+
+|                                                           Skill                                                           | Score |
+| :-----------------------------------------------------------------------------------------------------------------------: | :---: |
+|      <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Photoshop" width="40" height="40"/>      | ★★★★☆ |
+| <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" alt="Illustrator" width="40" height="40"/> | ★★★☆☆ |
+|             <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="40" height="40"/>             | ★★★☆☆ |
+|          <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="Photoshop" width="40" height="40"/>          | ★★☆☆☆ |
 
 # Statistic
 
