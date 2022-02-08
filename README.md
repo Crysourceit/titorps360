@@ -17,29 +17,14 @@ I have some background in software development using JavaScript and Python. 2 ye
 
 # Technical skill
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-
-<img src="https://commons.wikimedia.org/wiki/File:Typescript_logo_2020.svg" alt="TypeScript" width="40" height="40"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavsScript" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/>
-
-<img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="NextJS" width="40" height="40"/>
-
-<img src="https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg" alt="VueJS" width="40" height="40"/>
-
-<img src="https://commons.wikimedia.org/wiki/File:Nuxt_logo.svg" alt="NuxtJS" width="40" height="40"/>
-
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/>
-
-<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="40" height="40"/>
-
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+|                                                                                                                                                     |       |                                                                                                                       |       |     |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :-------------------------------------------------------------------------------------------------------------------: | :---: | :-: |
+|     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>     | ★★★★☆ |           <img src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" alt="NuxtJS" width="40" height="40"/>           | ★★★★☆ |
+|      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavsScript" width="40" height="40"/>      | ★★★★☆ |        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/>         | ★★★★☆ |
+|                      <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40"/>                      | ★★★☆☆ |        <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="40" height="40"/>        | ★★★☆☆ |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/> | ★★★☆☆ | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> | ★★★☆☆ |
+|               <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="NextJS" width="40" height="40"/>               | ★★★☆☆ |         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>         | ★★★★☆ |
+|                                <img src="https://v2.vuejs.org/images/logo.svg" alt="VueJS" width="40" height="40"/>                                 | ★★★★☆ |                                                                                                                       |       |
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=titorps360&label=Profile%20views&color=0e75b6&style=flat" alt="titorps360" /> </p>
 
