@@ -6,14 +6,14 @@ I have some background in software development using JavaScript and Python. 2 ye
 
 # Contact
 
-|                  Type                  |            Information            |
-| :------------------------------------: | :-------------------------------: |
-|    ![Email icon]("/icon/email.png")    |        Thanatt27@gmail.com        |
-|    ![Phone icon]("/icon/phone.png")    |          (+66) 885432433          |
-| ![Facebook icon]("/icon/facebook.png") |         Thanat Wongsamut          |
-|   ![Github icon]("/icon/github.png")   |       github.com/TitorPs360       |
-| ![LinkedIn icon]("/icon/linkedin.png") | linkedin.com/in/thanat-wongsamut/ |
-|  ![Address icon]("/icon/address.png")  |       Phetchaburi, Thailand       |
+|                 Type                 |            Information            |
+| :----------------------------------: | :-------------------------------: |
+|    ![Email icon](/icon/email.png)    |        Thanatt27@gmail.com        |
+|    ![Phone icon](/icon/phone.png)    |          (+66) 885432433          |
+| ![Facebook icon](/icon/facebook.png) |         Thanat Wongsamut          |
+|   ![Github icon](/icon/github.png)   |       github.com/TitorPs360       |
+| ![LinkedIn icon](/icon/linkedin.png) | linkedin.com/in/thanat-wongsamut/ |
+|  ![Address icon](/icon/address.png)  |       Phetchaburi, Thailand       |
 
 # Technical skill
 
